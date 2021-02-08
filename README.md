@@ -10,7 +10,7 @@ Basic Introduction:<br/>
   • Looking at the standard phone keypad as a grid, the low tone corresponds to the row, while the high tone corresponds to the column.<br/>
   • DTMF was known throughout the Bell System by the trademark TouchTone. The term was first used by AT&T on July 5, 1960, and was introduced to the public on November 18,         1963.<br/>
   
-  Check out more detailed information <a href = "https://www.communityofcoders.com/2021/02/dtmf-decoder-and-encoder-signals.html" target="_blank"'>CLICK HERE</a>
+  Check out more detailed information <a href = "https://www.communityofcoders.com/2021/02/dtmf-decoder-and-encoder-signals.html" target="_blank">CLICK HERE</a>
 
 # Prerequisites
 Matlab Software should be installed in the computer.
