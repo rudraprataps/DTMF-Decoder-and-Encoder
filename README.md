@@ -1,7 +1,7 @@
 # DTMF Decoder and Encoder
 This repository contains all the codes and files for DTMF Decoder and Encoder project which can be used in Signals and System Subject. 
 
-Basic Introduction:
+Basic Introduction:<br/>
   • DTMF Encoder Decoder is very easy to use the program to decode DTMF dial tones found on telephone lines with touch-tone phones.<br/>
   • DTMF is the global standard for audible tones that represent the digits on a phone keypad.<br/>
   • DTMF Decoder is also used for receiving data transmissions over the air in amateur radio frequency bands.<br/>
